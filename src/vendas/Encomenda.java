@@ -29,19 +29,6 @@ public class Encomenda {
         return total;
     }
 
-    /*public void mostrarEncomenda(){
-
-        System.out.println("Id Encomenda: " +this.idEncomenda);
-
-        double totalEncomenda = this.calcularTotal();
-        System.out.println("\tTotal da Encomenda: $" + totalEncomenda + "Mt");
-
-        System.out.println("\t Produtos da Encomenda: ");
-        for(int i = 0; i <this.contadorProdutos; i++){
-            System.out.println("\t\t" + this.produtos[i]);
-        }
-    }*/
-
     @Override
     public String toString(){
         var resultado = "Id Encomenda: " +this.idEncomenda;
