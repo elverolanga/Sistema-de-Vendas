@@ -1,4 +1,4 @@
-# Sistema-de-Vendas
+# Sistema de Vendas
 
 Este é um projeto de Sistema de Vendas desenvolvido em Java básico, utilizando conceitos fundamentais de Programação Orientada a Objetos (POO), como encapsulamento e polimorfismo. O sistema é projetado para lidar com operações básicas de vendas, incluindo a gestão de produtos e transações de vendas.
 
@@ -26,6 +26,7 @@ Pré-requisitos:
   desenvolvimento e a depuração.
 
 Instalação:
+
   *1 - Clone o Repositório : git clone https://github.com/seuusuario/sistema-de-vendas.git
   
   *2 - Abra o Projeto na Sua IDE
@@ -35,12 +36,17 @@ Instalação:
   *4 - Compile e Execute. Compile os arquivos fonte e execute a classe principal para iniciar o Sistema de Vendas.
 
 Melhorias Futuras:
-  Implementar o cadastro de compradores
-  Implementar uma interface gráfica (GUI) para facilitar a interação.
-  Adicionar suporte a banco de dados para armazenamento persistente de dados.
-  Expandir funcionalidades, como rastreamento de inventário e análises de vendas mais complexas.
+
+  * Implementar o cadastro de compradores
+  
+  * Implementar uma interface gráfica (GUI) para facilitar a interação.
+  
+  * Adicionar suporte a banco de dados para armazenamento persistente de dados.
+  
+  * Expandir funcionalidades, como rastreamento de inventário e análises de vendas mais complexas.
 
 Contribuição
+
 Contribuições são bem-vindas! Por favor, faça um fork do repositório, faça suas alterações e envie um pull request para revisão.
 
 Contato
