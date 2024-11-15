@@ -27,8 +27,11 @@ Pré-requisitos:
 
 Instalação:
   *1 - Clone o Repositório : git clone https://github.com/seuusuario/sistema-de-vendas.git
+  
   *2 - Abra o Projeto na Sua IDE
+  
   *3 - Importe o projeto como um projeto Java, se necessário.
+  
   *4 - Compile e Execute. Compile os arquivos fonte e execute a classe principal para iniciar o Sistema de Vendas.
 
 Melhorias Futuras:
