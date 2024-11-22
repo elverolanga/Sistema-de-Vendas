@@ -27,7 +27,7 @@ Pré-requisitos:
 
 Instalação:
 
-  *1 - Clone o Repositório : git clone https://github.com/seuusuario/sistema-de-vendas.git
+  *1 - Clone o Repositório : git clone https://github.com/elverolanga/Sistema-de-Vendas
   
   *2 - Abra o Projeto na Sua IDE
   
